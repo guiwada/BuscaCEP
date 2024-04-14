@@ -5,8 +5,11 @@ Em suma, o funcionamento do projeto se dá pelo usuário adicionando um CEP. Ap�
 Conhecimento colocado em prática :notebook_with_decorative_cover::
 
 •	Laravel.
+
 •	PHP.
+
 •	Conexão com API e Banco de dados.
+
 
 Segue um vídeo demostrando o funcionamento da aplicação:
 
