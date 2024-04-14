@@ -2,12 +2,10 @@ Uma aplicação MVC utilizando o framework PHP Laravel que consome uma API e mos
 
 Em suma, o funcionamento do projeto se dá pelo usuário adicionando um CEP. Após o usuário pesquisar o CEP, ele será redirecionado para uma tela onde aparecerão todas as informações sobre o local (Logradouro, Bairro, Cidade, Estado), ficando à disposição para o usuário adicionar o número do local. Também foi criada uma função que não permite ao usuário adicionar dois CEPs com o mesmo número, retornando uma mensagem de erro.
 
-Conhecimento colocado em prática :notebook_with_decorative_cover:	
+Conhecimento colocado em prática :notebook_with_decorative_cover::
 
 •	Laravel.
-
 •	PHP.
-
 •	Conexão com API e Banco de dados.
 
 Segue um vídeo demostrando o funcionamento da aplicação:
